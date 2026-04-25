@@ -67,11 +67,11 @@ export default function LandingPage() {
       tag="Cozy Café & Bakery"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/person-cafe-enjoying-book_23-2150064701.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/person-cafe-enjoying-book_23-2150064701.jpg?_wi=1",
           imageAlt: "Bakery interior",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg?_wi=1",
           imageAlt: "Fresh cafe food",
         },
         {
@@ -104,7 +104,7 @@ export default function LandingPage() {
           name: "Artisanal Pizza",
           price: "$12",
           variant: "Salty/Savory",
-          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-pizza-ingredients_23-2148357190.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-pizza-ingredients_23-2148357190.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -165,7 +165,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/green-bottle-with-confetti-white-balloons_23-2148092557.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/person-cafe-enjoying-book_23-2150064701.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/person-cafe-enjoying-book_23-2150064701.jpg?_wi=2",
           imageAlt: "birthday celebration cafe setup",
         },
         {
@@ -180,7 +180,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/creative-composition-paper-planets_23-2148874923.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg?_wi=2",
           imageAlt: "birthday celebration cafe setup",
         },
         {
@@ -195,7 +195,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/person-cafe-enjoying-book_23-2150064692.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-pizza-ingredients_23-2148357190.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-pizza-ingredients_23-2148357190.jpg?_wi=2",
           imageAlt: "birthday celebration cafe setup",
         },
       ]}
